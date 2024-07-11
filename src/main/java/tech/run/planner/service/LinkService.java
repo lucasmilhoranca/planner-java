@@ -1,8 +1,6 @@
 package tech.run.planner.service;
 
 import org.springframework.stereotype.Service;
-import tech.run.planner.controller.dto.link.LinkRequestDto;
-import tech.run.planner.entity.Activity;
 import tech.run.planner.entity.Link;
 import tech.run.planner.repository.LinkRepository;
 

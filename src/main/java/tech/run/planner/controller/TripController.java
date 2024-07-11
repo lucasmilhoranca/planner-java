@@ -15,7 +15,6 @@ import tech.run.planner.controller.dto.trip.TripRequestDto;
 import tech.run.planner.controller.dto.trip.TripRequestUpdateDto;
 import tech.run.planner.controller.dto.trip.TripResponseDto;
 import tech.run.planner.entity.Trip;
-import tech.run.planner.service.LinkService;
 import tech.run.planner.service.TripService;
 
 import java.util.List;
